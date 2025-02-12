@@ -44,3 +44,6 @@ jobs:
         with:
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_ASHY_ISLAND_0E9B56B1E }}
           action: "close"
+
+
+          Prueba de github
